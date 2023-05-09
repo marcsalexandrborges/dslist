@@ -1,0 +1,5 @@
+package com.marcosborges.dslist.repositories;
+
+public interface GameRepository {
+
+}
