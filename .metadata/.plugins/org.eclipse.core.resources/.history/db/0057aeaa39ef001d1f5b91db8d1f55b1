@@ -1,0 +1,5 @@
+package com.marcosborges.dslist.dto;
+
+public class GameDTO {
+
+}
