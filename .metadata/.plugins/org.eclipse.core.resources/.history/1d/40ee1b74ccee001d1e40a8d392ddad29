@@ -1,0 +1,5 @@
+package com.marcosborges.dslist.entities;
+
+public class GameList {
+
+}
