@@ -1,0 +1,5 @@
+package com.marcosborges.dslist.projections;
+
+public interface GameMinProjection {
+
+}
