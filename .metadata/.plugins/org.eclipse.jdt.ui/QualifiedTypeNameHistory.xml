@@ -5,8 +5,14 @@
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
     <fullyQualifiedTypeName name="com.marcosborges.dslist.entities.Game"/>
     <fullyQualifiedTypeName name="com.marcosborges.dslist.repositories.GameRepository"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.marcosborges.dslist.services.GameService"/>
     <fullyQualifiedTypeName name="com.marcosborges.dslist.dto.GameMinDTO"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.EmbeddedId"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.BeanUtils"/>
+    <fullyQualifiedTypeName name="com.marcosborges.dslist.dto.GameDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="com.marcosborges.dslist.entities.GameList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.marcosborges.dslist.projections.GameMinProjection"/>
 </qualifiedTypeNameHistroy>
